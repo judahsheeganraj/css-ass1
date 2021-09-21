@@ -1,0 +1,37 @@
+.one
+{color:red}
+.two
+{color: darkred;}
+.three
+{text-decoration: line-through;
+font: bold;}
+.class1
+{
+    width:50% ;
+    border: rgb(212, 206, 206);
+    background-color: sienna;
+}
+.four
+{
+    background-color: chartreuse;
+    font: bold;
+}
+.five
+{text-decoration: underline;}
+.six
+{
+    color: darkred;
+}
+
+.seven
+{
+    background-color: gold;  
+    font: bold;  
+}
+
+.eight
+{
+    
+    background-color: gold;
+    color: red;
+}
